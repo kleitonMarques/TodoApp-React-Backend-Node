@@ -1,4 +1,4 @@
-Abra 4 abas do terminal
+<h4>Para ficar mais fácil de orgarnizar, utilize 4 abas no seu terminal</h4>
 
 1) Execute o banco de dados na pasta “backend”
 	comando: mongod
