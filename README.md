@@ -1,7 +1,7 @@
 <h4>Para ficar mais fácil de orgarnizar, utilize 4 abas no seu terminal</h4>
 
 <p>
-    1) Execute o banco de dados na pasta “backend”</br>
+    <b>1) Execute o banco de dados na pasta “backend”</b></br>
 	comando: mongod
 </p>
 
